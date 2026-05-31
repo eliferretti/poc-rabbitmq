@@ -63,8 +63,8 @@ Após a inicialização:
 Credenciais padrão (caso não tenham sido alteradas):
 
 ```text
-Usuário: guest
-Senha: guest
+Usuário: admin
+Senha: admin
 ```
 
 ## ▶️ Executando a Aplicação
