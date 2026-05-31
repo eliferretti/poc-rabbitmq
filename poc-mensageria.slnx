@@ -4,4 +4,9 @@
     <Project Path="src/Exemplo-basico/Consumer/Consumer.csproj" />
     <Project Path="src/Exemplo-basico/Producer/Producer.csproj" />
   </Folder>
+  <Folder Name="/src/Exemplo-estruturado/">
+    <Project Path="src/Exemplo-estruturado/Consumer.Worker/Consumer.Worker.csproj" />
+    <Project Path="src/Exemplo-estruturado/Producer/Producer.csproj" />
+    <Project Path="src/Exemplo-estruturado/Shared/Shared.csproj" />
+  </Folder>
 </Solution>
